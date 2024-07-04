@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: darkslateblue;
+}
+
+.texto-destaque {
+    color: dodgerblue;
+}
+
+.titulo-blog {
+    background-color: darkgreen;
+    color: aquamarine;
+    padding: 5px;
+    border: 2px solid aqua;
+    margin-right: 20%;
+}
