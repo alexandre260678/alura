@@ -1,20 +1,17 @@
-* {
+*{
     margin: 0;
     padding: 0;
 }
-
-body {
-    background-color: darkslateblue;
+body{
+    background-color: #000000;
+    color: #F6F6F6;
 }
 
-.texto-destaque {
-    color: dodgerblue;
+.apresentacao{
+    display: flex;
+    align-items: center;
 }
 
-.titulo-blog {
-    background-color: darkgreen;
-    color: aquamarine;
-    padding: 5px;
-    border: 2px solid aqua;
-    margin-right: 20%;
+.titulo-destaque{
+    color: #22D4FD;
 }
